@@ -13,7 +13,7 @@ Emissions are recorded annually from 2010 to 2022.
 Emission by Country:
 We observed significant variation in emissions across different gas type by Country type, Country type World  has the highest gas emission and contributed to huge amount of emission over the years 
 
-![Greenhouse gast effect by country types](/assets/img/lineplot.png)
+![Greenhouse gast effect by country types](/Green-House-Effect/assets/img/lineplot.png)
 
 # Emissions by Gas Type:
 
@@ -21,17 +21,17 @@ We observed significant variations in emissions across different gas types.
 Carbon Dioxide (CO2) emissions were the highest across all industries, indicating its prevalence as a greenhouse gas.
 Methane (CH4), Nitrous Oxide (N2O) and Fluorinated gas emissions also contributed substantially, albeit at lower levels compared to CO2.
 
-![Greenhouse gast effect by gas types](/assets/img/piechat.png)
+![Greenhouse gast effect by gas types](//Green-House-Effect/assets/img/piechat.png)
 
 Analysis of emissions by industry revealed distinct patterns and contributions.
 The Agriculture, Forestry, and Fishing industry exhibited substantial emissions, particularly in CO2 and CH4.
 Other industries such as Manufacturing and Construction also contributed to emissions, albeit at lower levels compared to Agriculture, Forestry, and Fishing
 
-![Greenhouse gast effect by gas types](/assets/img/construction.png)
-![Greenhouse gast effect by gas types](/assets/img/electric.png)
-![Greenhouse gast effect by gas types](/assets/img/manufacturing.png)
-![Greenhouse gast effect by gas types](/assets/img/mining.png)
-![Greenhouse gast effect by gas types](/assets/img/transport.png)
+![Greenhouse gast effect by gas types](/Green-House-Effect/assets/img/construction.png)
+![Greenhouse gast effect by gas types](/Green-House-Effect/assets/img/electric.png)
+![Greenhouse gast effect by gas types](/Green-House-Effect/assets/img/manufacturing.png)
+![Greenhouse gast effect by gas types](/Green-House-Effect/assets/img/mining.png)
+![Greenhouse gast effect by gas types](/Green-House-Effect/assets/img/transport.png)
 
 Emissions trends varied across industries and gas types over the years.
 While some industries showed consistent emissions patterns, others exhibited fluctuations influenced by external factors such as economic conditions and regulatory changes.
