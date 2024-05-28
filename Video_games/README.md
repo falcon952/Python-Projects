@@ -49,7 +49,7 @@ Average Global Sales: 0.54 million units
 
 ## Total Sales by Region:
 
-![video_games_analysis](/img/total_sales_region.png)
+![video_games_analysis](/Video_games/img/total_sales_region.png)
 
 North America: 4392.62 million units|
 Europe: 2435.62 million units| 
@@ -60,47 +60,47 @@ North America leads in total sales, followed by Europe, Japan, and other regions
 ## Total Global Sales by Year:
 Total global sales show a rise until around 2008-2009, followed by a decline.
 
-![video_games_analysis](/img/Total_sales_global.png)
+![video_games_analysis](/Video_games/img/Total_sales_global.png)
 
 ## Total Europe Sales by Year:
 
 The total Europe sales were calculated for each year, showing trends in sales over time.
 
-![video_games_analysis](/img/Total_sales_europe.png)
+![video_games_analysis](/Video_games/img/Total_sales_europe.png)
 
 ## Total North America Sales by Year:
 
 Depicts North America sales trends over the years. 
 
-![video_games_analysis](/img/Total_sales_NA.png)
+![video_games_analysis](/Video_games/img/Total_sales_NA.png)
 
 ## Total Japan Sales by Year:
 
 Similarly, the total Japan sales were calculated for each year, illustrating how the Japanese market has evolved.
 
-![video_games_analysis](/img/Total_sales_japan.png)
+![video_games_analysis](/Video_games/img/Total_sales_japan.png)
 
 
 ## Distribution of Games by Year:
 The distribution of games by year shows a peak around 2008-2009.
 
-![video_games_analysis](/img/Distribution_sales.png)
+![video_games_analysis](/Video_games/img/Distribution_sales.png)
 
 Top 10 Genres by Number of Games:
 The most common genre is 'Action', followed by 'Sports' and 'Misc'.
 
-![video_games_analysis](/img/top_10_genres.png)
+![video_games_analysis](/Video_games/img/top_10_genres.png)
 
 Top 10 Platforms by Number of Games:
 The most common platform is 'DS', followed by 'PS2' and 'PS3'.
 
-![video_games_analysis](/img/top_10_platform.png)
+![video_games_analysis](/Video_games/img/top_10_platform.png)
 
 
 Correlation Heatmap:
 Correlation heatmap shows strong correlations between regional sales and global sales.
 
-![video_games_analysis](/img/correlation.png)
+![video_games_analysis](/Video_games/img/correlation.png)
 
 
 # Conclusion
